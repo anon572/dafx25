@@ -23,9 +23,9 @@ This repository contains multiple folders with processing scripts and an experim
 ├── synth-diodes-1f-1r-in-T00-L10-D10
 ├── synth-diodes-1f-1r-in-T10-L10-D00
 ├── synth-diodes-1f-1r-in-T10-L10-D10
+└── synth-diodes-1f-1r-out                  # Synthetic diode measurements outside the circuit
 ├── synth-diodes-2f-1r-in-2-1-T10-L10-D10   # Synthetic diode mod — 1 pair of diodes in series replacing diode D5 — measurements in-circuit
 ├── synth-diodes-2f-1r-in-4-1-T10-L10-D10   # Synthetic diode mod — Brett Miller's “HUEVOS GRANDES” — measurements in-circuit
-└── synth-diodes-out                        # Synthetic diode measurements outside the circuit
 
 ```
 

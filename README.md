@@ -31,7 +31,7 @@ This repository contains multiple folders with processing scripts and an experim
 
 ---
 
-## **Data Processing Scripts (`data-processing-py/` and `MATLAB`)**  
+## **Data Processing Scripts (`data-processing-py/` and `MATLAB/`)**  
 
 The `data-processing-py/` folder contains Jupyter notebooks with Python scripts for:  
 
@@ -41,7 +41,7 @@ The `data-processing-py/` folder contains Jupyter notebooks with Python scripts 
 
 The `img/` subfolder includes waveform and spectral images captured at various frequencies and voltages.  
 
-The `MATLAB/` folder contains MATLAB scripts and processed data scripts for Total Harmonic Distortion, Signal-to-Noise-Ratio, and harmonic levels.  
+The `MATLAB/` folder contains MATLAB scripts for Total Harmonic Distortion, Signal-to-Noise-Ratio, and harmonic levels, and processed data.  
 
 
 ---
